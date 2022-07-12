@@ -1,5 +1,6 @@
 # LastFM
 Customer scoring model created using sampled data from LastFM users.
+(Found at http://ocelma.net/MusicRecommendationDataset/lastfm-1K.html)
 
 To score customers in this dataset, I took an RFM (Recency, Frequency, Monetary Value)
 approach. With a lack of monetary information in this dataset, I decided to replace it
